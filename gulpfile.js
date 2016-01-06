@@ -13,8 +13,8 @@ var sassdocOptions = {
   dest: './public/sassdoc'
 };
 
-var input = './styles/**/*.scss';
-var output = './src/css';
+var input = './src/**/*.scss';
+var output = './styles/css';
 
 gulp.task('sass', function () {
   return gulp
