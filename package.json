@@ -1,0 +1,24 @@
+{
+  "name": "gulp-sass-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Giraudel",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-watch": "^4.3.5",
+    "watchify": "^2.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "sassdoc": "^2.1.19"
+  },
+  "description": "This is a simple starter for commando Sass work. Great for poking around and learning how to configure gulp.js and easy to inject into projects. You'll need [node.js](http://nodejs.org/) and [gulp.js](http://gulpjs.com/) installed."
+}
